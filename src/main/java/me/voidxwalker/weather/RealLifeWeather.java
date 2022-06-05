@@ -18,7 +18,7 @@ public class RealLifeWeather implements ModInitializer {
     private static String ipAddress;
     private static double latitude;
     private static double longitude;
-    public static int weatherID=600;
+    public static int weatherID;
     public static double windSpeed;
     public static int clouds;
     public static int windDegree;
