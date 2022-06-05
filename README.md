@@ -3,12 +3,19 @@
 
 Minecraft mod that makes the Minecraft weather mimic the weather outside!
 Currently, the mod copies these features from the real weather at your current location:
+
 -Rain
+
 -Thunder
+
 -Snow 
+
 -Clear weather
+
 -Cloud speed
+
 -Cloud direction
+
 -Cloudiness
 
 The mod does work on servers although it will only modify the weather client-side (it looks like it's thundering but there aren't any lightning strikes).
