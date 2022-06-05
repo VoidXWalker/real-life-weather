@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "real_life_weather",
+  "version": "${version}",
+  "name": "RealLifeWeather",
+  "description": "Makes the Weather in minecraft mimic the weather outside!",
+  "authors": [
+    "Void_X_Walker"
+  ],
+
+  "license": "MIT",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.voidxwalker.weather.RealLifeWeather"
+    ]
+  },
+  "mixins": [
+    "weather.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.7.4"
+  }
+}
