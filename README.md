@@ -16,7 +16,9 @@ The mod does work on servers although it will only modify the weather client sid
 ## How does the mod get the weather data?
 
 The mod get's your public ip adress by calling this website: http://checkip.amazonaws.com
+
 The mod get's your current location (lat and lon) by calling this website: https://ipinfo.io/{ip_address}/json
+
 the mod get's the weather at your current location by calling this website: "https://api.openweathermap.org/data/2.5/onecall?lat={latitude}&lon={longitude}&exclude=minutely,hourly,daily,alerts&appid=278259241608b6bfe55523cd612e1af8"
 
 These are the only 3 website calls the mod makes, no data is logged or stored anywhere.
