@@ -1,4 +1,4 @@
-# World Preview
+# Real-Life-Weather
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/voidxwalker)
 
 Minecraft mod that makes the Minecraft weather mimic the weather outside!
